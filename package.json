@@ -12,7 +12,7 @@
     "build": "webpack --mode production --openssl-legacy-provider start"
   },
   "engines": {
-    "node":"17.x"
+    "node":"18.x"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
