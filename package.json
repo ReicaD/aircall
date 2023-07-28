@@ -8,8 +8,8 @@
   "license": "",
   "private": false,
   "scripts": {
-    "start": "react-scripts start",
-    "build": "webpack --mode production"
+    "start": "react-scripts start --openssl-legacy-provider start",
+    "build": "webpack --mode production --openssl-legacy-provider start"
   },
   "engines": {
     "node":"17.x"
